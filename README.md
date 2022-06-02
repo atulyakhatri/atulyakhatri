@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, my name is Atulya Khatri 👋
+# Hi, my name is Atulya Khatri (KrishiPY) 👋
 
 #### :robot: About me
 - Currently Student :man_student:
