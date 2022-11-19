@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - Desktop notifier (using: plyer) :watch:
 - [More](https://github.com/atulyakhatri?tab=repositories) :mag_right:
 
+[![@atulyakhatri's Holopin board](https://holopin.me/atulyakhatri)](https://holopin.io/@atulyakhatri)
+
 #### :writing_hand: Some of my articles ...
 - [Building an Infinite timer using python](https://www.analyticsvidhya.com/blog/2021/11/building-an-infinite-timer-using-python/) :timer_clock:
 - [Youtube video downlaoder using python](https://www.analyticsvidhya.com/blog/2022/02/youtube-video-downloader-using-python/) :clapper:
